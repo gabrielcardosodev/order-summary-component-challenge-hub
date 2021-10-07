@@ -1,4 +1,4 @@
-# Frontend Mentor - Order summary card solution
+# Frontend Mentor - Order Summary Card Solution
 
 This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Link](https://github.com/gabrielcardosodev/order-summary-component-challenge-hub)
-- Live Site URL: [Link](https://gabrielcardosodev.github.io/order-summary-component-challenge-hub/)
+- Solution URL: [Repository](https://github.com/gabrielcardosodev/order-summary-component-challenge-hub)
+- Live Site URL: [GitHub Pages](https://gabrielcardosodev.github.io/order-summary-component-challenge-hub/)
 
 ### Built with
 
